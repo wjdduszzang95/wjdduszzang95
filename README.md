@@ -2,7 +2,7 @@
 I'm JeongYeonPark, Cybersecurity Researcher from Korea:smiley:
 
 <div align=center>
-<h3>My Tech Stack :open_book:</h3><br>
+<h3>My Tech Stack :open_book:</h3>
 </div>
 
 <div align=center>
