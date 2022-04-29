@@ -1,5 +1,5 @@
 Welcome to my page!<br>
-I'm JeongYeonPark, Cybersecurity Researcher from :kr: Korea
+I'm JeongYeonPark, Cybersecurity Researcher from Korea:smiley:
 
 <!--
 **wjdduszzang95/wjdduszzang95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
