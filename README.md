@@ -6,7 +6,7 @@ I'm JeongYeonPark, Cybersecurity Researcher from Korea:smiley:
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
   <br>
