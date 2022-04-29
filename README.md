@@ -1,10 +1,12 @@
 <h1>Welcome to my page!</h1><br>
 I'm JeongYeonPark, Cybersecurity Researcher from Korea:smiley:
 
+<div align=center>
 <h3>My Tech Stack :open_book:</h3><br>
+</div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
