@@ -1,7 +1,7 @@
 <h1>Welcome to my page!</h1><br>
 I'm JeongYeonPark, Cybersecurity Researcher from Korea:smiley:
 
-<h1>My Tech Stack :open_book:</h1><br>
+<h3>My Tech Stack :open_book:</h3><br>
 
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
