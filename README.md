@@ -1,4 +1,4 @@
-<h3>Welcome to my page!</h3><br>
+<h3>Welcome to my page!</h3>
 I'm JeongYeonPark, Cybersecurity Researcher from Korea:smiley:
 
 <div align=center>
